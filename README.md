@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C9D6FF,100:E2E2E2&height=200&section=header&text=GiJung's%20GitHub&desc=BackEnd%20Development%20Log&fontSize=60&fontAlignY=25&descAlign=62&descAlignY=48)
+
+![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiJungPark&show_icons=true)
+
 <!--
 **GiJungPark/GiJungPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C9D6FF,100:E2E2E2&height=200&section=header&text=GiJung's%20GitHub&desc=BackEnd%20Development%20Log&fontSize=60&fontAlignY=25&descAlign=62&descAlignY=48)
 
-![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiJungPark&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
