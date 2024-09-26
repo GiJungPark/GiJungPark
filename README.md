@@ -1,5 +1,4 @@
-<p align="center"><img src="https://private-user-images.githubusercontent.com/101462387/355532699-7f775ebc-0c3a-43f9-8dea-f01c13ca81e9.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI5NjI4NDQsIm5iZiI6MTcyMjk2MjU0NCwicGF0aCI6Ii8xMDE0NjIzODcvMzU1NTMyNjk5LTdmNzc1ZWJjLTBjM2EtNDNmOS04ZGVhLWYwMWMxM2NhODFlOS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDgwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA4MDZUMTY0MjI0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NWI2OTBjNTYwNmVjZGY3ZDllYmI0YTViMTk1NjRlMDA1NTkxNTA5NTI2ZjU1MWYxNDJkYWMwZWY2N2U0NWJjMSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.RVc6Lb6unZ6E5bzuvpo8svVnpl6qRWaESBjMoAcbuEo" width="500px"></p>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weeds2577)](https://solved.ac/weeds2577/)
 <p align="center"><img src="https://streak-stats.demolab.com?user=GiJungPark&theme=dark&card_width=500&card_height=200"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GiJungPark&show_icons=true&theme=gruvbox"></p>
 
