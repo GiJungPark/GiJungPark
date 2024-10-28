@@ -28,8 +28,8 @@ Java Koltin SpringBoot Docker MySQL Redis
 
 <br><br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GiJungPark&theme=dark&card_width=500)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiJungPark&show_icons=true&theme=gruvbox&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GiJungPark&theme=dark&card_width=400)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiJungPark&show_icons=true&theme=gruvbox&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
